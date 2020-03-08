@@ -1637,3 +1637,5 @@ https://wiki.denfaminicogamer.jp/dsj/
 ## 先駆者
 https://www.nicovideo.jp/watch/sm15829828
 
+https://www.youtube.com/watch?v=kPTYhs_y3lI&feature=youtu.be
+
