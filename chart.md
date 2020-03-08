@@ -1626,8 +1626,14 @@
     * デレ
 
 # 参考
+
+## 各データ
 http://spwiki.net/deep-strangejourney/
 
 https://h1g.jp/megami_dsj/
 
 https://wiki.denfaminicogamer.jp/dsj/
+
+## 先駆者
+https://www.nicovideo.jp/watch/sm15829828
+
